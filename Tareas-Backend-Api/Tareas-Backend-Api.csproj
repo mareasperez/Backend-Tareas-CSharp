@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>Tareas_Backend_Api</RootNamespace>
+    <UserSecretsId>6382e961-1859-4ca2-ab04-a22abe7ca201</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
